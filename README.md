@@ -91,8 +91,9 @@ Single Page Application built with Vue.js.
 ## 📫 Contact
 
 - GitHub: <PRIVATE_URL>
-- Telegram: @your_telegram
+- Telegram: [@SashsaHatkov](https://t.me/SashsaHatkov)
 - Email: your_email@example.com
+- Site: https://nexora.by
 
 ---
 
