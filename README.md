@@ -92,7 +92,7 @@ Single Page Application built with Vue.js.
 
 - GitHub: <PRIVATE_URL>
 - Telegram: [@SashsaHatkov](https://t.me/SashsaHatkov)
-- Email: your_email@example.com
+- Email: bendar1991@gmail.com
 - Site: https://nexora.by
 
 ---
