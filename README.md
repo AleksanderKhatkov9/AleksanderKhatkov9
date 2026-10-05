@@ -94,6 +94,7 @@ Single Page Application built with Vue.js.
 - Telegram: [@SashsaHatkov](https://t.me/SashsaHatkov)
 - Email: bendar1991@gmail.com
 - Site: https://nexora.by
+- CV: [Hatkov](https://aleksanderkhatkov9.github.io/CV/)
 
 ---
 
